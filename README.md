@@ -15,6 +15,8 @@ Telos has migrated the onchain documents from eosio.amend to amend.decide. In or
 
 ## TBNOA clauses
 
+This ratifyamend proposes changing the following TBNOA clauses.
+
 ### 8. Block Producer Nomination, Qualification, and Election
 
 [clause 8](./clause-8.md)
