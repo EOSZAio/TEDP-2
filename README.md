@@ -5,7 +5,7 @@ Telos Economic Development Plan version 2 requires that the following clauses of
 
 ### 8. Block Producer Nomination, Qualification, and Election
 
-[clause 8.md]
+[clause 8](clause 8.md)
 
 ### 10. Block Producer Pay
 
