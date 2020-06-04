@@ -5,20 +5,20 @@ Telos Economic Development Plan version 2 requires that the following clauses of
 
 ### 8. Block Producer Nomination, Qualification, and Election
 
-[clause 8](./clause8.md)
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+[clause 8](./clause-8.md)
+
 ### 10. Block Producer Pay
 
-[clause 10.md]
+[clause 10](./clause-10.md)
 
 ### 24. Worker Proposal Fund
 
-[clause 24.md]
+[clause 24](./clause-24.md)
 
 ### 44. Resource Exchange
 
-[clause 44.md]
+[clause 44](./clause-44.md)
 
 ### 49. Telos Economic Development
 
-[clause 49.md]
+[clause 49](./clause-49.md)
